@@ -6,5 +6,6 @@ public interface IServicioB {
     public int multiplicarSuma(int a, int b, int multiplicador);
     public int multiplicar(int a, int b);
     public int dividir(int a, int b);
+    public int restar(int a, int b);
 
 }
